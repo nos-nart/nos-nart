@@ -8,15 +8,9 @@
 
 - ⚽ My hobbies are: history, languages (English | Chinese), music, swimming!
 
-<table border="0">
-    <tr>
-        <td>
-            ## Some of my Github Stats
-            ![nos-nart github stats](https://github-readme-stats.vercel.app/api?username=nos-nart&show_icons=true)
-        </td>
-        <td>
-            ## Most use languages
-            ![nos-nart languages](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=nos-nart)
-        </td>
-    </tr>
-</table>
+
+## Some of my Github Stats
+![nos-nart github stats](https://github-readme-stats.vercel.app/api?username=nos-nart&show_icons=true)
+
+## Most use languages
+![nos-nart languages](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=nos-nart)
